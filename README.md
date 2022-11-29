@@ -9,21 +9,12 @@
     - [Console messages](#console-messages)
     - [Including images with webpack](#including-images-with-webpack)
     - [Importing CSS](#importing-cssscss)
-    - [Using axios](#using-axios)
     - [Deploying on Netlify](#deploying-on-netlify)
 ___
 
 ## Get Started
 
-### Use Template
-#### 1. To get started, click the GREEN "Use this Template" button at the top of the repo
-<img width="1015" alt="usetemplate" src="https://user-images.githubusercontent.com/29741570/190486165-7ca4abf5-2249-4d0d-9584-b68c82f19ba0.png">
-
-#### 2. Make sure YOUR github account is selected in the dropdown and name your project
-<img width="844" alt="createproject" src="https://user-images.githubusercontent.com/29741570/190486151-f8a5d3a9-f395-482c-ab51-016362505f57.png">
-
-3. Clone your new repo to your local machine
-4. Go to the **NEXT** section
+1. Clone your new repo to your local machine
 
 ## Starting the Project
 1. Open the `package.json` file and change the `name` property to the name of your application, and `author` to  your name.
