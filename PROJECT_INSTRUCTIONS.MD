@@ -35,7 +35,6 @@ Make sure your Developer Tools are open at all times while working on this proje
 Create issue tickets from the items below to help you get started. 
 - [ ] Setup your firebase project and create the `.env` file with your keys. (Reference the [Firebase videos](https://vimeo.com/showcase/codetracker-firebase) if you need help getting started)
 - [ ] Plan your project. Take no more than an hour to plan (ERD, Flow Chart, Postman)
-- [ ] Use this template (webpack) to create the project on your github account
 - [ ] Make sure you are in your `workspace/foundations/exercises` directory
 - [ ] `git clone YOUR_GITHUB_REPO_LINK`
 - [ ] `cd` into the directory
