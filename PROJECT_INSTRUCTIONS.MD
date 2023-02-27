@@ -22,20 +22,19 @@ If you only get MVP complete, but display the above Core Skills and can demonstr
 ## Tools To Use:
 - Postman for API testing
 - Firebase for database, rules, and authentication
-- Webpack template setup steps (Located in your cohort repo)
-- dbdiagram.io for creating your ERD
+- Webpack template setup steps
+- dbdiagram.io or something similar for creating your ERD
 - Figma, google slides, or paper for flow charting your application
 - Fetch for requests
 - Github issues/milestones for planning out work
 - Bootstrap for styling
 
-Make sure your Developer Tools are open at all times while working on this project. Use the messages provided in the Console to determine what code needs to be fixed or implemented, and use breakpoints in the Sources tab to step through your code as you debug.
+Make sure your Developer Tools are open at all times while working on this project. Use the messages provided in the console to determine what code needs to be fixed or implemented, and use breakpoints in the Sources tab to step through your code as you debug.
 
 ## Get Started
 Create issue tickets from the items below to help you get started. 
 - [ ] Setup your firebase project and create the `.env` file with your keys. (Reference the [Firebase videos](https://vimeo.com/showcase/codetracker-firebase) if you need help getting started)
 - [ ] Plan your project. Take no more than an hour to plan (ERD, Flow Chart, Postman)
-- [ ] Make sure you are in your `workspace/foundations/exercises` directory
 - [ ] `git clone YOUR_GITHUB_REPO_LINK`
 - [ ] `cd` into the directory
 - [ ] Run `npm install` to install your dependencies
@@ -49,8 +48,8 @@ Create issue tickets from the items below to help you get started.
 - [ ] An ERD of your data
 - [ ] Use Firebase for DB and authentication
 - [ ] Technical Flow chart (timebox this)
-- [ ] The app has a navigation bar
-  - [ ] A logo
+- [ ] The app has a navigation bar that includes:
+  - [ ] A Title/Logo (do not spend a ton of time on this until you reach MVP)
   - [ ] Logout button
   - [ ] Create Entry
   - [ ] Any other options you would like to add
